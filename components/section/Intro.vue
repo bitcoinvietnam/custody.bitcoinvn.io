@@ -12,7 +12,7 @@
         </div>
 
         <div
-          class="flex flex-col space-y-1 text-base leading-relaxed tracking-wide text-center text-gray-400 md:space-y-3 paragraph md:px-20 md:text-xl">
+          class="flex flex-col space-y-1 text-base leading-relaxed tracking-wide text-center text-gray-300 md:space-y-3 paragraph md:px-20 md:text-xl">
           <ul class="space-y-2 list-outside none">
             <li>
               No dilution.
