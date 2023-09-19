@@ -25,12 +25,12 @@
             class="w-full p-2 text-sm text-gray-200 rounded-lg placeholder:text-gray-300 placeholder:font-normal placeholder:text-sm bg-gray-300/50 md:p-3 md:text-sm" />
         </form>
         <div v-if="successResp" class="text-green-600">
-          <div class="font-bold">
+          <div class="text-sm">
             Thank you for contacting us. We will get back to you shortly via the provided email.
           </div>
-          <div class="text-gray-500">You can safely close this tab now.</div>
-          <div class="text-sm italic">
+          <div class="text-sm text-gray-500">
             We reply within the same day - please also check your spam folder carefully.
+            You can safely close this tab now.
           </div>
         </div>
       </div>
