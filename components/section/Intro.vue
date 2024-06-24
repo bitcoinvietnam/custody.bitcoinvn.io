@@ -57,17 +57,11 @@
   </section>
 </template>
 
-
 <script>
 export default {
   methods: {
     contact() {
-      RocketChat(function () {
-        this.setDepartment('Custody');
-      });
-      RocketChat(function () {
-        this.maximizeWidget();
-      });
+      FreshworksWidget('open');
     }
 
   }
