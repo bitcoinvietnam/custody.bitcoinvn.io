@@ -32,10 +32,10 @@ export default {
         charset: 'utf-8'
       },
       // Freskdesk Helper widget
-      { src: 'https://euc-widget.freshworks.com/widgets/103000007828.js', async: true },
+      { src: 'https://euc-widget.freshworks.com/widgets/103000008079.js', async: true },
       {
         innerHTML: `window.fwSettings={
-           'widget_id':103000007828
+           'widget_id':103000008079
            };
            !function(){if("function"!=typeof window.FreshworksWidget){var n=function(){n.q.push(arguments)};n.q=[],window.FreshworksWidget=n}}()`,
         type: 'text/javascript',
