@@ -80,4 +80,8 @@ export default {
       },
     },
   },
+
+  router: {
+    base: '/custody/'
+  }
 }
