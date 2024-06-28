@@ -82,6 +82,6 @@ export default {
   },
 
   router: {
-    base: '/custody/'
+    base: '/custody'
   }
 }
